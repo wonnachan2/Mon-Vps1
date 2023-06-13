@@ -1,7 +1,5 @@
 {
-// version for updating, if there is an update, need to change more numbers than before
 "Version":"1.1",
-//link for server
    
    "files": [ 
 
@@ -15,15 +13,9 @@
 
       ]
    
-"message":"🚀 Config version - 1.1 \n📆 Latest update - 7/06/2023\n \n📌What's new 🔥\n \n📌VIP account 😴 🇹🇭MON✓™ \n• Data transfer - Unlimited✅Game✓ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/wonnachan0  \n \nThank you for support us💙",
+"message":"🚀 Config version - 1 \n📆 Latest update - 7/06/2023\n \n📌What's new 🔥\n \n📌VIP account 😴 🇹🇭MON✓™ \n• Data transfer - Unlimited✅Game✓ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/wonnachan0  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 1.1
-// don't mess with the bottom
-"latestVersion": "1.1.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
+   "version": 1
+
 }
 

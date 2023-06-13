@@ -2,11 +2,11 @@
    "files": [ 
 
 {
-         "name": "TH-VIP-Test-1",
+         "name": "TH-VIP1-Test-1",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-4.ovpn"
       },
       {
-         "name": "TH-VIP-Test-2",
+         "name": "TH-VIP2-Test-2",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-5.ovpn"
       }
 

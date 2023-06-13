@@ -3,103 +3,62 @@
 
 
 {
-         "name": "Singapore-001",
+         "name": "Th_Test-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-1.ovpn"
+      },
+
+{
+         "name": "Th_Test-002",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-2.ovpn"
+      },
+
+
+{
+         "name": "Th_Test-003",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-3.ovpn"
+      },
+
+{
+         "name": "Th_Test-004",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-4.ovpn"
+      },
+
+{
+         "name": "Th_Test-005",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-5.ovpn"
       },
 
 {
-         "name": "Singapore-002",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-4.ovpn"
+         "name": "Th-Ais-0001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-1Pro-Ais.ovpn"
       },
 
 
 {
-         "name": "Singapore-003",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-003.ovpn"
+         "name": "Th-ZCOM-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1.ovpn"
       },
 
 {
-         "name": "Singapore-004",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-004.ovpn"
+         "name": "Th_ZCOM-Ais-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1Ais.ovpn"
       },
 
 {
-         "name": "Singapore-005",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-005.ovpn"
+         "name": "Th-Ready-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_READY-1.ovpn"
       },
 
 {
-         "name": "Singapore-006",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-006.ovpn"
-      },
-
-
-{
-         "name": "Singapore-007",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-007.ovpn"
+         "name": "TH-Ready-002",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_READY-2.ovpn"
       },
 
 {
-         "name": "Singapore-008",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-008.ovpn"
+         "name": "Th-ViP-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH___VIP1.ovpn"
       },
 
-{
-         "name": "Singapore-009",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-001.ovpn"
-      },
-
-{
-         "name": "Singapore-010",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-002.ovpn"
-      },
-
-{
-         "name": "Singapore-011",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-003.ovpn"
-      },
-
-
-{
-         "name": "Singapore-012",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-004.ovpn"
-      },
-
-{
-         "name": "Singapore-013",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-005.ovpn"
-      },
-
-{
-         "name": "Singapore-014",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-006.ovpn"
-      },
-
-{
-         "name": "Singapore-015",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-007.ovpn"
-      },
-
-{
-         "name": "Thailand-001",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
-      },
-
-{
-         "name": "Thailand-002",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
-      },
-
-
-{
-         "name": "Thailand-003",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
-      },
-
-{
-         "name": "Thailand-004",
-         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
-      },
 
 {
          "name": "Thailand-005",
@@ -108,7 +67,7 @@
 
 
   ],
-"message":"🟢WonNaChan🟢\n\n📢VIP ၀ယ်လိုပါက 1လ50ပါ✓✓✓📢\n\n•🚀Fixed All Servers🚀\n•Version:3\n\n•Owner By: 999 ",
+"message":"🟢WonNaChan🟢\n\n📢VIP Gamer✓✓✓📢\n\n•🚀Fixed All Servers🚀\n•Version:3\n\n•Owner By: 999 ",
    "title":"💙wonna123💙" ,
-   "version": 5
+   "version": 6
 }

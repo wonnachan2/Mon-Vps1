@@ -1,96 +1,116 @@
 {
-// version for updating, if there is an update, need to change more numbers than before
+   "// version for updating, if there is an update, need to change more numbers than before
 "Version":"1.1",
-//link for server
-{
-   "files": [  
+//": [    
+
 
 {
-         "name": "TH-VIP-01",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-01.ovpn"
-      },
-{
-         "name": "TH-VIP-02",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-002.ovpn"
-      },
-      {
-         "name": "TH-VIP-03",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-03.ovpn"
-      },
-{
-         "name": "TH-VIP-04",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-04.ovpn"
-      },
-      {
-         "name": "TH-VIP-05",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-05.ovpn"
-      },
-{
-         "name": "TH-VIP-06",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-TRUE-006.ovpn"
-      },
-       {
-         "name": "TH-VIP-07",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-007.ovpn"
-      },
-      {
-         "name": "TH-VIP-08",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-DTAC-GAME-VIP-15.ovpn"
-      },
-{
-         "name": "TH-VIP-09",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-018.ovpn"
-      },
-       {
-         "name": "TH-VIP-10",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH.VIP.010.ovpn"
+         "name": "Singapore-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-5.ovpn"
       },
 
 {
-         "name": "TH-VIP-11",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-TRUE-GAME-VIP-18.ovpn"
-      },
-
-{
-         "name": "TH-VIP-12",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-012.ovpn"
-      },
-      {
-         "name": "TH-VIP-13",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-013.ovpn"
-      },
-{
-         "name": "TH-VIP-14",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-014.ovpn"
-      },
-      {
-         "name": "TH-VIP-15",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-015.ovpn"
-      },
-{
-         "name": "TH-VIP-16",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-016.ovpn"
-      },
-      {
-         "name": "TH-VIP-17",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-DTAC-GAME-VIP-017.ovpn"
-      },
-      {
-         "name": "TH-VIP-18",
-         "url": "https://raw.githubusercontent.com/MYOHTETAUNGVPN/MYOHTETAUNGVPN/main/TH-VIP-018.ovpn"
-      },
-
-{
-         "name": "TH-VIP-19",
+         "name": "Singapore-002",
          "url": "https://github.com/wonnachan2/Mon-Vps1/blob/main/TH-Test-4.ovpn"
       },
-      {
-         "name": "TH-VIP-Test",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-5.ovpn"
-      }
 
-      ],
-"message":"🚀 Config version - 1 \n📆 Latest update - 7/06/2023\n \n📌What's new 🔥\n \n📌VIP account 🇹🇭@@@ \n• Data transfer - Unlimited✅Game✓ \n• Unlimited time - ✓Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/wonnachan0  \n \nThank you for support us💙",
-   "title":"Do you want to update?",
-   "version": 1
+
+{
+         "name": "Singapore-003",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-003.ovpn"
+      },
+
+{
+         "name": "Singapore-004",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-004.ovpn"
+      },
+
+{
+         "name": "Singapore-005",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-005.ovpn"
+      },
+
+{
+         "name": "Singapore-006",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-006.ovpn"
+      },
+
+
+{
+         "name": "Singapore-007",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-007.ovpn"
+      },
+
+{
+         "name": "Singapore-008",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-008.ovpn"
+      },
+
+{
+         "name": "Singapore-009",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-001.ovpn"
+      },
+
+{
+         "name": "Singapore-010",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-002.ovpn"
+      },
+
+{
+         "name": "Singapore-011",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-003.ovpn"
+      },
+
+
+{
+         "name": "Singapore-012",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-004.ovpn"
+      },
+
+{
+         "name": "Singapore-013",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-005.ovpn"
+      },
+
+{
+         "name": "Singapore-014",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-006.ovpn"
+      },
+
+{
+         "name": "Singapore-015",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-007.ovpn"
+      },
+
+{
+         "name": "Thailand-001",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+{
+         "name": "Thailand-002",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+
+{
+         "name": "Thailand-003",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+{
+         "name": "Thailand-004",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+{
+         "name": "Thailand-005",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      }       
+
+
+  ],
+"message":"🟢WonNaChan🟢\n\n📢VIP ၀ယ်လိုပါက 1လ50ပါ📢\n\n•🚀Fixed All Servers🚀\n•Version:3\n\n•Owner By: Mon ",
+   "title":"💙19 December 2022💙" ,
+   "version": 3
 }

@@ -3,60 +3,53 @@
 
 
 {
-         "name": "SG-001",
+         "name": "Singapore-VIP0001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG_VPS-1.ovpn"
+      },
+{
+         "name": "Singapore-0002",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG_VPS-2.ovpn"
+      },
+{
+         "name": "Singapore-0003",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG_VPS-3.ovpn"
+      },
+{
+         "name": "Singapore-ViP-001",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/NON..ovpn"
       },
 
-
-
-
-
 {
-         "name": "TH-001",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-1.ovpn"
+         "name": "Thailand-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS_1.ovpn"
       },
 
 {
-         "name": "TH-002",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-2.ovpn"
+         "name": "Thailand-002",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS3.ovpn"
       },
 
 {
-         "name": "TH-003",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-3.ovpn"
-      },
-
-{
-         "name": "TH-004",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-4.ovpn"
-      },
-
-{
-         "name": "TH-005",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-5.ovpn"
-      },
-
-{
-         "name": "TH-VIP006",
+         "name": "Thailand-VIP006",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH___VIP1.ovpn"
       },
 
 {
-         "name": "TH-Zcom-007",
+         "name": "Thailand-Zcom-007",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1.ovpn"
       },
 
 {
-         "name": "TH-Zcon-Ais008",
+         "name": "Thailand-Zcon-Ais008",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1Ais.ovpn"
       }
 
 
 
    ],
-"message":"WonNaChan\n\n•Version:1\n\n•✅Add 2 VIP IP✅\n\n📢MON✓📢",
-   "title":"🎄New Game VPS🎄" ,
-   "version": 1
+"message":"1WonNaChan✓®®®\n\n•Version:1\n\n•✅Add 2 VIP-VPS IP✅\n\n📢MON✓📢",
+   "title":"🎄VPS1 @Game✓ VPS🎄" ,
+   "version": 2
 }
 
 

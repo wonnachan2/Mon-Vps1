@@ -45,7 +45,7 @@
 
 {
          "name": "Thailand-VPS-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/Vpsss.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/viip."
       },      
       
       
@@ -53,7 +53,13 @@
          "name": "Thailand-Zcom-001",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1.ovpn"
       },
+      
+{
+         "name": "Thailand-VPS-AIS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/viip-ais.ovpn."
+      },      
 
+      
 {
          "name": "Thailand-Zcon-Ais001",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1Ais.ovpn"
@@ -62,9 +68,9 @@
 
 
    ],
-"message":"1WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
+"message":"2WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
    "title":"🎄VPS1 @Game✓ VPS®_123.Pro✓🥰🥰🥰±🎄" ,
-   "version": 1
+   "version": 2
 }
 
 

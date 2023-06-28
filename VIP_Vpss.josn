@@ -3,68 +3,72 @@
 
 
 {
-         "name": "SG-0001",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_VPS_0011AIS.ovpn"
+         "name": "SG-VIP-AIS-!",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-AIS-NOPRO.ovpn"
       },
+
 {
-         "name": "SG-0002",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG_VPS-2.ovpn"
+         "name": "SG-VIP-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-TRUE-NOPRO.ovpn"
       },
+
+ {
+         "name": "SG-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG--1.ovpn"
+      },
+
 {
-         "name": "SG-0003",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG_VPS-3.ovpn"
+         "name": "SG-002",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG--2.ovpn"
+      },     
+
+{
+         "name": "SG-003",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG--3.ovpn"
       },
-
-
-
-
 
 {
          "name": "TH-001",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-1.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---1.ovpn"
       },
 
 {
          "name": "TH-002",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-2.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---2.ovpn"
       },
 
-{
+      {
          "name": "TH-003",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-3.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---3.ovpn"
       },
 
 {
          "name": "TH-004",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-4.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---4.ovpn"
       },
 
 {
          "name": "TH-005",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Test-5.ovpn"
-      },
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---5.ovpn"
+      },      
 
 {
-         "name": "TH-VIP006",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH___VIP1.ovpn"
-      },
-
+         "name": "TH-VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/viip.ovpn"
+      },      
+      
+      
 {
-         "name": "TH-Zcom-007",
+         "name": "TH-Zcom-001",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1.ovpn"
-      },
-
-{
-         "name": "TH-Zcon-Ais008",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1Ais.ovpn"
       }
+      
 
 
 
    ],
-"message":"000WonNaChan✓®\n\n•Version:1\n\n•✅Add 2 VIP-VPS IP✅\n\n📢MON✓📢",
-   "title":"VPS1 @Game✓ VPS" ,
-   "version": 7
+"message":"1WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
+   "title":"🎄VIP^VPS$$$🎄" ,
+   "version": 1
 }
-
 

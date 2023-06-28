@@ -3,6 +3,16 @@
 
 
 {
+         "name": "Singapore-VIP-AIS-!",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-AIS-NOPRO.ovpn"
+      },
+
+{
+         "name": "Singapore-VIP-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-TRUE-NOPRO.ovpn"
+      },
+
+ {
          "name": "Singapore-001",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG--1.ovpn"
       },
@@ -10,8 +20,7 @@
 {
          "name": "Singapore-002",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG--2.ovpn"
-      },
-
+      },     
 
 {
          "name": "Singapore-003",
@@ -52,25 +61,15 @@
 {
          "name": "Thailand-Zcom-001",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1.ovpn"
-      },
-      
-{
-         "name": "Thailand-VPS-AIS-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/viip-ais.ovpn"
-      },      
-
-      
-{
-         "name": "Thailand-Zcon-Ais001",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH_ZCOM-1Ais.ovpn"
       }
+      
 
 
 
    ],
-"message":"4WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
+"message":"5WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
    "title":"🎄VPS1 @Game✓ VPS®_123.Pro✓🥰🥰🥰±🎄" ,
-   "version": 4
+   "version": 5
 }
 
 

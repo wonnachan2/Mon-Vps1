@@ -38,9 +38,17 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---4.ovpn"
       },
 
+
 {
-         "name": "TH-005",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---5.ovpn"
+         "name": "TH-VIP-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/THQ.ovpn"
+      },      
+
+
+
+{
+         "name": "TH-VIP-1-AIS",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/THQ.ovpn"
       },      
 
 {
@@ -55,8 +63,8 @@
 
 
    ],
-"message":"2WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
+"message":"3WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
    "title":"🎄VIP^VPS$$$🎄" ,
-   "version": 2
+   "version": 3
 }
 

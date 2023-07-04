@@ -56,7 +56,6 @@
       },      
 
 
-
 {
          "name": "TH-VIP-1-AIS",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/THQ--AIS.ovpn"
@@ -64,7 +63,7 @@
 
 {
          "name": "TH-INET-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH----TRUE-DTAC99.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---INET-TRUE-DTAC99.ovpn"
       },      
 
 
@@ -84,15 +83,11 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/viip.ovpn"
       }   
       
-      
-
-      
-
 
 
    ],
-"message":"5WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
-   "title":"🎄VIP^VPS$$$🎄" ,
-   "version": 5
+"message":"6WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
+   "title":"🎄VIP^VPS$$$@🎄" ,
+   "version": 6
 }
 

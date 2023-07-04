@@ -1,0 +1,84 @@
+{
+   "files": [    
+
+
+{
+         "name": "SG-VPS-AIS",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG---VPS-1-AIS.ovpn"
+      },
+
+{
+         "name": "SG-VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG---VPS-1.ovpn"
+      },
+
+
+{
+         "name": "SG-VIP-AIS",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-AIS-NOPRO.ovpn"
+      },
+
+{
+         "name": "SG-VIP-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-TRUE-NOPRO.ovpn"
+      },
+
+ {
+         "name": "SG-VIP-2",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-1.ovpn"
+      },
+
+{
+         "name": "TH-001",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---1.ovpn"
+      },
+
+{
+         "name": "TH-002",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---2.ovpn"
+      },
+
+      {
+         "name": "TH-003",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---3.ovpn"
+      },
+
+{
+         "name": "TH-004",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---4.ovpn"
+      },
+
+{
+         "name": "TH-VIP-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/THQ.ovpn"
+      },      
+
+{
+         "name": "TH-VIP-1-AIS",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/THQ--AIS.ovpn"
+      },      
+
+{
+         "name": "TH-INET-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH----TRUE-DTAC99.ovpn"
+      },      
+
+{
+         "name": "TH-XVER-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH--X-TRUE-DTAC99.ovpn"
+      },  
+
+{
+         "name": "TH-Pro-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-PRO_1.ovpn"
+      },  
+
+{
+         "name": "TH-VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/viip.ovpn"
+      }   
+ ],
+"message":" 100WONNACHAN\nUpdate by: M gyi\nMON",
+   "title":"VIP^VPS" ,
+   "version": 1
+}

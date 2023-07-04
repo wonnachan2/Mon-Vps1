@@ -3,18 +3,18 @@
 
 
 {
-         "name": "SG-VPS-AIS-",
+         "name": "SG-VPS-AIS",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG---VPS-1-AIS.ovpn"
       },
 
 {
-         "name": "SG-VPS-1-",
+         "name": "SG-VPS-1",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG---VPS-1.ovpn"
       },
 
 
 {
-         "name": "SG-VIP-AIS-",
+         "name": "SG-VIP-AIS",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG-2-AIS-NOPRO.ovpn"
       },
 
@@ -69,12 +69,12 @@
 
 {
          "name": "TH-XVER-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH--X-TRUE-DTAC99.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH--XVER-TRUE-DTAC99.ovpn"
       },  
 
 {
          "name": "TH-Pro-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-PRO_1.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-PRO_1.ovpn."
       },  
 
 
@@ -86,8 +86,8 @@
 
 
    ],
-"message":"1WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
+"message":"2WonNaChan\n\n•Version:1\n\n•✅ TH_VIP ✅\n\n📢MON✓📢",
    "title":"🎄VIP^VPS$$$@🎄" ,
-   "version": 1
+   "version": 2
 }
 

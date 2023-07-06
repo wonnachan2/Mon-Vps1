@@ -3,9 +3,31 @@
 
 
 {
+         "name": "SG.VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG.VPS.ovpn"
+      },     
+
+
+{
          "name": "TH.INET",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/INET.ovpn"
-      },  
+      },
+
+ 
+{
+         "name": "TH.VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.1.ovpn"
+      },     
+ 
+{
+         "name": "TH.VPS-2",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.2.ovpn"
+      },     
+ 
+{
+         "name": "TH.VPS-3",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.3.ovpn"
+      },     
 
 
 {
@@ -16,7 +38,7 @@
       
 
    ],
-"message":"WonNaChan-1\n\n•Version:1\n\n•✅ VPS_VIP ✅\n\n📢MON✓📢",
+"message":"WonNaChan-2\n\n•Version:1\n\n•✅ VPS_VIP ✅\n\n📢MON✓📢",
    "title":"🎄VIP^VPS$$$🎄" ,
-   "version": 1
+   "version": 2
 }

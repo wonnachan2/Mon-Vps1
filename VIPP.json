@@ -3,12 +3,6 @@
 
 
 {
-         "name": "SG.VPS-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/SG.VPS.ovpn"
-      },     
-
-
-{
          "name": "TH.INET",
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/INET.ovpn"
       },
@@ -29,10 +23,14 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.3.ovpn"
       },     
 
+ {
+         "name": "TH.VIP-1",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-020.ovpn"
+      },          
 
 {
-         "name": "TH.XVER",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/XVER.ovpn"
+         "name": "TH.VIP-2",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-005.ovpn"
       }   
       
       
@@ -40,5 +38,5 @@
    ],
 "message":"WonNaChan-2\n\n•Version:1\n\n•✅ VPS_VIP ✅\n\n📢MON✓📢",
    "title":"🎄VIP^VPS$$$🎄" ,
-   "version": 2
+   "version" 1.01
 }

@@ -1,151 +1,193 @@
 {
-   "files": [    
-
-
+   "files": [ 
 {
-         "name": "SG-001",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-001.ovpn"
+         "name": "TH-DTAC-GAME-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "SG-002",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-002.ovpn"
-      },
-
-
-{
-         "name": "TH-001",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-001.ovpn"
+         "name": "TH-DTAC-GAME-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-002",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-002.ovpn"
+         "name": "TH-DTAC-GAME-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-003",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-003.ovpn"
+         "name": "TH-DTAC-GAME-FREE04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-004",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-004.ovpn"
+         "name": "TH-DTAC-GAME-FREE05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-005",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-005.ovpn"
+         "name": "TH-AIS-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-006",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-006.ovpn"
+         "name": "TH-AIS-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-007",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-007.ovpn"
+         "name": "TH-AIS-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-008",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-008.ovpn"
+         "name": "TH-AIS-FREE04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-009",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-009.ovpn"
+         "name": "TH-AIS-FREE05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-010",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-010.ovpn"
+         "name": "TH-TRUE-GAME-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-011",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-011.ovpn"
+         "name": "TH-TRUE-GAME-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-012",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-012.ovpn"
+         "name": "TH-TRUE-GAME-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-013",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-013.ovpn"
+         "name": "TH-TRUE-GAME-FREE04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-014",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-014.ovpn"
+         "name": "TH-TRUE-GAME-FREE05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-015",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-015.ovpn"
+         "name": "TH-TRUE-GAME-FREE06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-016",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-016.ovpn"
+         "name": "TH-DTAC-GAME-FREE06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-017",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-017.ovpn"
+         "name": "TH-TRUE-GAME-FREE07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-018",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-018.ovpn"
+         "name": "TH-TRUE-GAME-FREE08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-019",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-019.ovpn"
+         "name": "TH-DTAC-GAME-FREE08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-020",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-020.ovpn"
+         "name": "SG-DTAC-GAME-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-021",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-021.ovpn"
+         "name": "SG-DTAC-GAME-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-022",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-022.ovpn"
-      },
-      
-      
-{
-         "name": "TH-023",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-023.ovpn"
+         "name": "SG-DTAC-GAME-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
 
 {
-         "name": "TH-024",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-024.ovpn"
+         "name": "SG-DTAC-GAME-FREE04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       },
-      
-      
+
 {
-         "name": "TH-025",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-025.ovpn"
+         "name": "SG-DTAC-GAME-FREE05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME-FREE06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME-FREE07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-DTAC-GAME-FREE08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE01",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE02",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE03",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE04",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE05",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE06",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "SG-TRUE-GAME-FREE08",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
+      },
+
+{
+         "name": "TH-DTAC-GAME-FREE07",
+         "url": "https://raw.githubusercontent.com/HeinMinLatt8/HeinMinLatt8/main/TH-DTAC-FREE.ovpn"
       }
 
 
-
    ],
-"message":"21 2023\n\n•Version:42\n\n•✅Add 2 VIP IP✅\n\n📢By : wonnachan2000@gmail.com📢",
-   "title":"🎄New Game VPS🎄" ,
-   "version": 1
-}
-
-
+"message":"🚀 Config version - 3 \n📆 Latest update - 22/07/2023\n• Thailand🇹🇭 Server \n• Thailand🇹🇭 Proxy ip\n• Singapore 🇸🇬 Server \n• Singapore 🇸🇬 ip \n• GoodSpeed\n• Online Games 100%% \n• Dtac Truemove AIS  NOPRO \n•  အဆင်ပြေကြမယ်လို့မျှော်လင့်မိပါတယ်\n ကျုံရဲ့သားလေး\n လိုင်းအားကြခဲ့ရင်ဖိုင်ရွေးပြီးချိတ်ကြပါ ",
+   "title":"Do you want to update?",
+   "version": 01
+      }

@@ -1,43 +1,31 @@
 {
-
-// version for updating, if there is an update, need to change more numbers than before
-
-"ตรวจพบเวอร์ชั่นใหม่":"1.1.01",
-
-//link for server update
-
-"Url":"https://github.com/wonnachan2/Mon-Vps1/raw/main/Jue7.zip" ,
-
+//အပ္ဒိတ္အတြက္ ဗားရွင္း၊ အပ္ဒိတ္ရွိပါက၊ ယခင္ထက္ နံပါတ္မ်ား ပိုမိုေျပာင္းလဲရန္ လိုအပ္ပါသည္။
+"Version":" 1
+//ဆာဗာ အပ္ဒိတ္
+"files": [ 
+https://github.com/wonnachan2/Mon-Vps1/raw/main/Jue7.zip
+  ],
 "Changelog":"
-Wonnachan™ 7
-TH✓
-SG✓
+အပ္ဒိတ္အသစ္ေတြ႕ရွိသည္
+--------------+--------------
+ 
+WonNaChan
+• DTAC-TRUE
+•MYTEL-MECTEL
+•ATOM-MPT-OOREDOO
+ 
 ",
-
  
-
  
-
  
-
  
-
  
-
  
-
-// don't mess with the bottom
-
+//MON
 "latestVersion": "1.0.0",
-
 "latestVersionCode": "1",
-
 "url": "",
-
  "releaseNotes": [
-
  "-Demo"
-
   ]
-
 }

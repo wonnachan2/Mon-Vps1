@@ -1,18 +1,27 @@
 {
-//အပ္ဒိတ္အတြက္ ဗားရွင္း၊ အပ္ဒိတ္ရွိပါက၊ ယခင္ထက္ နံပါတ္မ်ား ပိုမိုေျပာင္းလဲရန္ လိုအပ္ပါသည္။
-"Version":" 1
-//ဆာဗာ အပ္ဒိတ္
-"files": [ 
-https://github.com/wonnachan2/Mon-Vps1/raw/main/Jue7.zip
-  ],
+//The version is for updates. If there is an update, the number must be changed to be greater than before.
+"Version":"1.01",
+// Link to update server
+"Url":"https://github.com/zawzawt/Network/raw/main/solavpn.zip" ,
 "Changelog":"
-အပ္ဒိတ္အသစ္ေတြ႕ရွိသည္
---------------+--------------
- 
-WonNaChan
-• DTAC-TRUE
-•MYTEL-MECTEL
-•ATOM-MPT-OOREDOO
+ေႏြးေထြးစြာႀကိဳဆိုပါ၏
+Sola_VPN.ဝန္ေဆာင္မူ
+အသုံးျပဳရႏိုင္ေသာ ဆင္းကဒ္မ်ား
+ထူးမူ+ဒီတက္ မ်ားျဖစ္ပါတယ္
+
+VIP.ေဈးႏႈန္းမ်ား👇
+
+VIP.တလ.၅၀ဘက္
+VIP.၂လ.၁၀၀ဘက္
+VIP.၃လ.၁၅၀ဘက္
+VIP.၄လ.၂၀၀ဘက္
+
+
+
+
+
+
+
  
 ",
  
@@ -21,7 +30,7 @@ WonNaChan
  
  
  
-//MON
+// don't mess below
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",

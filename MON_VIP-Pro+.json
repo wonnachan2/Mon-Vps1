@@ -1,0 +1,44 @@
+
+{
+
+// version for updating, if there is an update, need to change more numbers than before
+
+"Version":"1.01",
+
+//link for server update
+
+"Url":"https://github.com/wonnachan2/Mon-Vps1/raw/main/Jue3bb.zip" ,
+
+"Changelog":"
+Wonnachan™ 14
+TH✓
+SG✓
+",
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+// don't mess with the bottom
+
+"latestVersion": "1.0.0",
+
+"latestVersionCode": "1",
+
+"url": "",
+
+ "releaseNotes": [
+
+ "-Demo"
+
+  ]
+
+}

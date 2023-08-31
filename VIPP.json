@@ -8,9 +8,15 @@
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-1.ovpn"
 
+      },
+      
+      {
+
+         "name": "TH-VIP-001",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH1.ovpn"
+
       }
-
-
      
 
      
@@ -21,6 +27,6 @@
 
    "title":"WonNaCahn" ,
 
-   "version": 1
+   "version": 02
 
 }

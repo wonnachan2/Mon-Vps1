@@ -1,42 +1,26 @@
 {
+
    "files": [    
 
+{
 
-{
-         "name": "TH.INET",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/INET.ovpn"
-      },
+         "name": "TH-VPS-001",
 
- 
-{
-         "name": "TH.VPS-1",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.1.ovpn"
-      },     
- 
-{
-         "name": "TH.VPS-2",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.2.ovpn"
-      },     
- 
-{
-         "name": "TH.VPS-3",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VPS.3.ovpn"
-      },     
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-1.ovpn"
 
- {
-         "name": "TH.VIP-1",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-020.ovpn"
-      },          
+      }
 
-{
-         "name": "TH.VIP-2",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-005.ovpn"
-      }   
-      
-      
+
+     
+
+     
 
    ],
-"message":"WonNaChan-2\n\n•Version:1\n\n•✅ VPS_VIP ✅\n\n📢MON✓📢",
-   "title":"🎄VIP^VPS$$$🎄" ,
-   "version" 1.01
+
+"message":"MOM\n\n•Version:1\n\n•✅Add 1 VIP VPS IP✅\n\n📢By : SanLin📢",
+
+   "title":"WonNaCahn" ,
+
+   "version": 1
+
 }

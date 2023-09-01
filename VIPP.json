@@ -8,6 +8,14 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIPP_11.ovpn"
 
       },
+
+{
+
+         "name": "TH-VIP-AIS-001",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH1ais.ovpn"
+
+      },
       
 {
 
@@ -35,6 +43,6 @@
 
    "title":"WonNaCahn" ,
 
-   "version": 03
+   "version": 04
 
 }

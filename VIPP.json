@@ -25,6 +25,13 @@
 
       },
       
+{
+
+         "name": "TH-VPS-AIS+001",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/aisa.ovpn"
+
+      },      
       
       {
 
@@ -43,6 +50,6 @@
 
    "title":"WonNaCahn" ,
 
-   "version": 04
+   "version": 05
 
 }

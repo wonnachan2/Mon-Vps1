@@ -1,25 +1,19 @@
 {
 
    "files": [    
-{
 
-         "name": "TH-VIP-002",
-
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIPP_11.ovpn"
-
-      },
 
 {
 
-         "name": "TH-VIP-AIS-001",
+         "name": "TH-INTE-001",
 
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH1ais.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---INET-TRUE-DTAC99.ovpn"
 
       },
       
 {
 
-         "name": "TH-VPS-001",
+         "name": "TH-VPS-Dtac-True001",
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-1.ovpn"
 
@@ -27,9 +21,9 @@
       
 {
 
-         "name": "TH-VPS-AIS+001",
+         "name": "TH-VPS-AIS-001",
 
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/aisa.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-AIS.ovpn"
 
       },      
       
@@ -37,7 +31,7 @@
 
          "name": "TH-VIP-001",
 
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH1.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-VIP-dtac.true-1.ovpn"
 
       }
      
@@ -50,6 +44,6 @@
 
    "title":"WonNaCahn" ,
 
-   "version": 05
+   "version": 06
 
 }

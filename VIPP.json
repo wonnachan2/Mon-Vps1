@@ -5,7 +5,7 @@
 
 {
 
-         "name": "TH-INTE-001",
+         "name": "TH-INTE-Dtac.True001",
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH---INET-TRUE-DTAC99.ovpn"
 
@@ -16,6 +16,22 @@
          "name": "TH-VPS-Dtac-True001",
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-1.ovpn"
+
+      },
+
+{
+
+         "name": "TH-CAT-Dtac-True1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/CAT_01.ovpn"
+
+      },
+
+{
+
+         "name": "TH-CAT-AIS1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/CAT_01A.ovpn"
 
       },
       
@@ -29,7 +45,7 @@
       
       {
 
-         "name": "TH-VIP-001",
+         "name": "TH-VIP-Dtac.True-1",
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-VIP-dtac.true-1.ovpn"
 
@@ -42,8 +58,8 @@
 
 "message":"MOM\n\n•Version:1\n\n•✅Add 3 VIP VPS IP✅\n\n📢By : SanLin📢",
 
-   "title":"WonNaCahn" ,
+   "title":"WonNaCahn✓" ,
 
-   "version": 06
+   "version": 07
 
 }

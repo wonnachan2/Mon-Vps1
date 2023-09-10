@@ -42,6 +42,14 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-AIS.ovpn"
 
       },      
+
+{
+
+         "name": "TH-ZCOM-dtac.true+1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/zcom.ovpn"
+
+      },      
       
       {
 
@@ -60,6 +68,6 @@
 
    "title":"WonNaCahn✓" ,
 
-   "version": 07
+   "version": 08
 
 }

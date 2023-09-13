@@ -36,17 +36,17 @@
 
 {
 
-         "name": "TH-CAT-Dtac-True1",
+         "name": "TH-3bb-Dtac-True1",
 
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/CAT_01.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIPdT.ovpn"
 
       },
 
 {
 
-         "name": "TH-CAT-AIS1",
+         "name": "TH-3bb-AIS1",
 
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/CAT_01A.ovpn"
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIPdA.ovpn"
 
       },
       
@@ -64,15 +64,8 @@
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/zcom.ovpn"
 
-      },      
+      }   
       
-      {
-
-         "name": "TH-VIP-Dtac.True-1",
-
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-VIP-dtac.true-1.ovpn"
-
-      }
      
 
      
@@ -83,6 +76,6 @@
 
    "title":"WonNaCahn✓" ,
 
-   "version": 09
+   "version": 10
 
 }

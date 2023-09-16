@@ -17,6 +17,22 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-mm.ovpn"
 
       },
+
+{
+
+         "name": "SG-VIP-AIS1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VK-1.1.ovpn"
+
+      },
+
+{
+
+         "name": "SG-VIP-Dtac.True1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VK-1.ovpn"
+
+      },
       
 {
 
@@ -49,6 +65,23 @@
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/155a.ovpn"
 
       },
+
+
+{
+
+         "name": "TH-Pro1-AIS1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/V.K-A.ovpn"
+
+      },
+
+{
+
+         "name": "TH-Pro1-Dtac.True1",
+
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VK.ovpn"
+
+      },
       
 {
 
@@ -76,6 +109,6 @@
 
    "title":"WonNaCahn✓" ,
 
-   "version": 12
+   "version": 13
 
 }

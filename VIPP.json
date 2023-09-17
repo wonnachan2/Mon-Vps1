@@ -7,22 +7,21 @@
 
 {
 
-         "name": "TH_Linux-ais-1",
+         "name": "TH_ais.1",
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Linux.ais-1.ovpn"
 
       },
 
 
+   
 {
 
-{
-
-         "name": "TH_Linux-dtac.true-1",
+         "name": "TH_dtac.true.1",
 
          "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-Linux.dtac.true-1.ovpn"
 
-      }   
+      }, 
       
      
 
@@ -30,10 +29,10 @@
 
    ],
 
-"message":"MOM\n\n•Version:1\n\n•✅Add 3 VIP VPS✓™ IP✅\n\n📢By : SanLin📢",
+"message":"MOM\n\n•Version:1\n\n•✅Add 3 VIP VPS IP✅\n\n📢By : SanLin📢",
 
    "title":"WonNaCahn✓" ,
 
-   "version": 14
+   "version": 15
 
 }

@@ -3,13 +3,13 @@
 
 
 {
-         "name": "SG-001",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/Linux_D.T-1.ovpn"
+         "name": "SG_VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-V.ovpn"
       },
       
 {
-         "name": "TH-027",
-         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/Linux_D.T-1.ovpn"
+         "name": "TH_VPS-1",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/TH-V.ovpn"
      
       }
 
@@ -19,7 +19,7 @@
    ],
 "message":"2023\n\n•Version:47\n\n•✅WonNaChan✅\n\n📢MON : VPS📢",
    "title":"🎄Game VPS🎄" ,
-   "version": 17
+   "version": 18
 }
 
 
